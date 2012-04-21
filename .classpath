@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="com.buglabs.dragonfly.jdt.BugClasspathContainerInitializer"/>
+	<classpathentry kind="lib" path="/home/jconnolly/buglabs/dev/misc/processing-1.5.1/lib/core.jar"/>
+	<classpathentry kind="lib" path="/home/jconnolly/.processing/libraries/toxiclibscore/library/toxiclibscore.jar"/>
+	<classpathentry kind="lib" path="/home/jconnolly/buglabs/dev/misc/processing-1.5.1/modes/java/libraries/video/library/video.jar"/>
+	<classpathentry kind="lib" path="/opt/build/r2.1/tmp/sysroots/armv7a-angstrom-linux-gnueabi/usr/share/java/bundle/com.buglabs.bug.jni.common.jar"/>
+	<classpathentry kind="lib" path="/opt/build/r2.1/tmp/sysroots/armv7a-angstrom-linux-gnueabi/usr/share/java/bundle/com.buglabs.bug.jni.camera.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
